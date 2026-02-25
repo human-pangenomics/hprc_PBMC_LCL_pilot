@@ -1,6 +1,6 @@
 # HPRC TechProduction PBMC + LCL Pilot
 
-This is a data collection repo for a special pilot experiment that is co-funded by Coriell program funds.     
+This is a data collection repo for a special pilot experiment that is co-funded by co-funded by the NHGRI Sample Repository for Human Genetic Research.     
 
 There are two primary goals of this pilot:
  1. call and assess variants from PBMC and LCL HiFi sequencing.    
