@@ -69,7 +69,7 @@ There are two primary goals of this pilot:
 |HG08444|HiFi|PBMC|WUSTL|369.2|TBD|[aws](https://s3-us-west-2.amazonaws.com/human-pangenomics/submissions/a4712276-4cbc-42d3-9d2d-76e9fe5258a6--WUSTL_HPRC_HiFi_Year7_Blood/HG08444/PacBio_HiFi/)|
 |HG08444|ONT-UL|LCL|TBD|TBD|TBD|TBD|
 |HG08444|Omni-C|LCL|TBD|TBD|TBD|TBD|
-|HG08444|HiFi-Fiberseq|LCL|WUSTL|459.0|TBD|[aws folder]([https://s3-us-west-2.amazonaws.com/human-pangenomics/submissions/a4712276-4cbc-42d3-9d2d-76e9fe5258a6--WUSTL_HPRC_HiFi_Year7_Blood/HG08444/PacBio_HiFi/](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/a6dbdf5c-14f6-4df9-a9fe-b78181b7f6f2--WUSTL_HPRC_HiFi_Year7_LCL_FiberSeq/HG08444/PacBio_HiFi/))|
+|HG08444|Fiberseq(HiFi)|LCL|WUSTL|394.1|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/a6dbdf5c-14f6-4df9-a9fe-b78181b7f6f2--WUSTL_HPRC_HiFi_Year7_LCL_FiberSeq/HG08444/PacBio_HiFi/)|
 |HG08444|Kinnex|TBD|TBD|TBD|TBD|TBD|
 
 #### HG08446
@@ -77,9 +77,10 @@ There are two primary goals of this pilot:
 |Sample|Technology|LCL/PBMC|Site|Size (Gb)|Reads N50 (kb)|AWS Link|
 |------|----------|--------|----|---------|--------------|--------|
 |HG08446|HiFi|LCL|TBD|TBD|TBD|TBD|
-|HG08446|HiFi|PBMC|WUSTL|386.3|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/submissions/a4712276-4cbc-42d3-9d2d-76e9fe5258a6--WUSTL_HPRC_HiFi_Year7_Blood/HG08446/PacBio_HiFi/m84388_260128_160120_s1.hifi_reads.bc2005.bam)|
+|HG08446|HiFi|PBMC|WUSTL|386.3|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/submissions/a4712276-4cbc-42d3-9d2d-76e9fe5258a6--WUSTL_HPRC_HiFi_Year7_Blood/HG08446/PacBio_HiFi/)|
 |HG08446|ONT-UL|LCL|TBD|TBD|TBD|TBD|
 |HG08446|Omni-C|LCL|TBD|TBD|TBD|TBD|
+|HG08446|Fiberseq(HiFi)|LCL|WUSTL|401.1|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/a6dbdf5c-14f6-4df9-a9fe-b78181b7f6f2--WUSTL_HPRC_HiFi_Year7_LCL_FiberSeq/HG08446/PacBio_HiFi/)|
 |HG08446|Kinnex|TBD|TBD|TBD|TBD|TBD|
 
 #### HG08449
@@ -87,9 +88,10 @@ There are two primary goals of this pilot:
 |Sample|Technology|LCL/PBMC|Site|Size (Gb)|Reads N50 (kb)|AWS Link|
 |------|----------|--------|----|---------|--------------|--------|
 |HG08449|HiFi|LCL|TBD|TBD|TBD|TBD|
-|HG08449|HiFi|PBMC|WUSTL|344.8|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/submissions/a4712276-4cbc-42d3-9d2d-76e9fe5258a6--WUSTL_HPRC_HiFi_Year7_Blood/HG08449/PacBio_HiFi/m84388_260128_180621_s2.hifi_reads.bc2014.bam)|
+|HG08449|HiFi|PBMC|WUSTL|344.8|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/submissions/a4712276-4cbc-42d3-9d2d-76e9fe5258a6--WUSTL_HPRC_HiFi_Year7_Blood/HG08449/PacBio_HiFi/)|
 |HG08449|ONT-UL|LCL|TBD|TBD|TBD|TBD|
 |HG08449|Omni-C|LCL|TBD|TBD|TBD|TBD|
+|HG08449|Fiberseq(HiFi)|LCL|WUSTL|311.6|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/a6dbdf5c-14f6-4df9-a9fe-b78181b7f6f2--WUSTL_HPRC_HiFi_Year7_LCL_FiberSeq/HG08449/PacBio_HiFi/)|
 |HG08449|Kinnex|TBD|TBD|TBD|TBD|TBD|
 
 #### HG08463
@@ -97,9 +99,10 @@ There are two primary goals of this pilot:
 |Sample|Technology|LCL/PBMC|Site|Size (Gb)|Reads N50 (kb)|AWS Link|
 |------|----------|--------|----|---------|--------------|--------|
 |HG08463|HiFi|LCL|TBD|TBD|TBD|TBD|
-|HG08463|HiFi|PBMC|WUSTL|381.4|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/submissions/a4712276-4cbc-42d3-9d2d-76e9fe5258a6--WUSTL_HPRC_HiFi_Year7_Blood/HG08463/PacBio_HiFi/m84388_260128_201116_s3.hifi_reads.bc2015.bam)|
+|HG08463|HiFi|PBMC|WUSTL|381.4|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/submissions/a4712276-4cbc-42d3-9d2d-76e9fe5258a6--WUSTL_HPRC_HiFi_Year7_Blood/HG08463/PacBio_HiFi/)|
 |HG08463|ONT-UL|LCL|TBD|TBD|TBD|TBD|
 |HG08463|Omni-C|LCL|TBD|TBD|TBD|TBD|
+|HG08463|Fiberseq(HiFi)|LCL|WUSTL|331.5|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/a6dbdf5c-14f6-4df9-a9fe-b78181b7f6f2--WUSTL_HPRC_HiFi_Year7_LCL_FiberSeq/HG08463/PacBio_HiFi/)|
 |HG08463|Kinnex|TBD|TBD|TBD|TBD|TBD|
 
 #### HG08464
@@ -107,8 +110,9 @@ There are two primary goals of this pilot:
 |Sample|Technology|LCL/PBMC|Site|Size (Gb)|Reads N50 (kb)|AWS Link|
 |------|----------|--------|----|---------|--------------|--------|
 |HG08464|HiFi|LCL|TBD|TBD|TBD|TBD|
-|HG08464|HiFi|PBMC|WUSTL|329.0|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/submissions/a4712276-4cbc-42d3-9d2d-76e9fe5258a6--WUSTL_HPRC_HiFi_Year7_Blood/HG08464/PacBio_HiFi/m84388_260128_221611_s4.hifi_reads.bc2016.bam)|
+|HG08464|HiFi|PBMC|WUSTL|329.0|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/submissions/a4712276-4cbc-42d3-9d2d-76e9fe5258a6--WUSTL_HPRC_HiFi_Year7_Blood/HG08464/PacBio_HiFi/)|
 |HG08464|ONT-UL|LCL|TBD|TBD|TBD|TBD|
 |HG08464|Omni-C|LCL|TBD|TBD|TBD|TBD|
+|HG08463=4|Fiberseq(HiFi)|LCL|WUSTL|343.8|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/a6dbdf5c-14f6-4df9-a9fe-b78181b7f6f2--WUSTL_HPRC_HiFi_Year7_LCL_FiberSeq/HG08464/PacBio_HiFi/)|
 |HG08464|Kinnex|TBD|TBD|TBD|TBD|TBD|
 
