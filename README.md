@@ -15,7 +15,7 @@ There are two primary goals of this pilot:
 |Sample|Technology|LCL/PBMC|Site|Size (Gb)|Reads N50 (kb)|AWS Link|
 |------|----------|--------|----|---------|--------------|--------|
 |HG08434|HiFi|LCL|UW|430.0|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/e2586c0d-0862-4137-8d5b-514238eb2917--UW_HPRC_HiFi_Y7/PG08434/)|
-|HG08434|HiFi|PBMC|TBD|TBD|TBD|TBD|
+|HG08434|HiFi|PBMC|UW|394.1|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/466C0730-D59F-4438-9A02-3A5F06B6C2A0--UW_HPRC_HiFi_Year7_Blood/HG08434/)|
 |HG08434|ONT-UL|LCL|UCSC|135.1|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/84077892-5102-489A-AB47-79EA57B8FC91--UCSC_HPRC_NANOPORE_YEAR7/HG08434/)|
 |HG08434|Omni-C|LCL|TBD|TBD|TBD|TBD|
 |HG08434|Kinnex|TBD|TBD|TBD|TBD|TBD|
@@ -26,7 +26,7 @@ There are two primary goals of this pilot:
 |Sample|Technology|LCL/PBMC|Site|Size (Gb)|Reads N50 (kb)|AWS Link|
 |------|----------|--------|----|---------|--------------|--------|
 |HG08435|HiFi|LCL|UW|385.3|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/e2586c0d-0862-4137-8d5b-514238eb2917--UW_HPRC_HiFi_Y7/PG08435/)|
-|HG08435|HiFi|PBMC|TBD|TBD|TBD|TBD|
+|HG08435|HiFi|PBMC|UW|448.8|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/466C0730-D59F-4438-9A02-3A5F06B6C2A0--UW_HPRC_HiFi_Year7_Blood/HG08435/)|
 |HG08435|ONT-UL|LCL|UCSC|175.3|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/84077892-5102-489A-AB47-79EA57B8FC91--UCSC_HPRC_NANOPORE_YEAR7/HG08435/)|
 |HG08435|Omni-C|LCL|TBD|TBD|TBD|TBD|
 |HG08435|Kinnex|TBD|TBD|TBD|TBD|TBD|
@@ -36,7 +36,7 @@ There are two primary goals of this pilot:
 |Sample|Technology|LCL/PBMC|Site|Size (Gb)|Reads N50 (kb)|AWS Link|
 |------|----------|--------|----|---------|--------------|--------|
 |HG08436|HiFi|LCL|UW|429.7|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/e2586c0d-0862-4137-8d5b-514238eb2917--UW_HPRC_HiFi_Y7/PG08436/)|
-|HG08436|HiFi|PBMC|TBD|TBD|TBD|TBD|
+|HG08436|HiFi|PBMC|UW|490.9|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/466C0730-D59F-4438-9A02-3A5F06B6C2A0--UW_HPRC_HiFi_Year7_Blood/HG08436/)|
 |HG08436|ONT-UL|LCL|UCSC|172.7|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/84077892-5102-489A-AB47-79EA57B8FC91--UCSC_HPRC_NANOPORE_YEAR7/HG08436/)|
 |HG08436|Omni-C|LCL|TBD|TBD|TBD|TBD|
 |HG08436|Kinnex|TBD|TBD|TBD|TBD|TBD|
@@ -46,7 +46,7 @@ There are two primary goals of this pilot:
 |Sample|Technology|LCL/PBMC|Site|Size (Gb)|Reads N50 (kb)|AWS Link|
 |------|----------|--------|----|---------|--------------|--------|
 |HG08441|HiFi|LCL|UW|382.1|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/e2586c0d-0862-4137-8d5b-514238eb2917--UW_HPRC_HiFi_Y7/PG08441/)|
-|HG08441|HiFi|PBMC|TBD|TBD|TBD|TBD|
+|HG08441|HiFi|PBMC|UW|490.7|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/466C0730-D59F-4438-9A02-3A5F06B6C2A0--UW_HPRC_HiFi_Year7_Blood/HG08441/)|
 |HG08441|ONT-UL|LCL|UCSC|140.6|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/84077892-5102-489A-AB47-79EA57B8FC91--UCSC_HPRC_NANOPORE_YEAR7/HG08441/)|
 |HG08441|Omni-C|LCL|TBD|TBD|TBD|TBD|
 |HG08441|Kinnex|TBD|TBD|TBD|TBD|TBD|
@@ -56,7 +56,7 @@ There are two primary goals of this pilot:
 |Sample|Technology|LCL/PBMC|Site|Size (Gb)|Reads N50 (kb)|AWS Link|
 |------|----------|--------|----|---------|--------------|--------|
 |HG08443|HiFi|LCL|UW|485.4|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/e2586c0d-0862-4137-8d5b-514238eb2917--UW_HPRC_HiFi_Y7/PG08443/)|
-|HG08443|HiFi|PBMC|TBD|TBD|TBD|TBD|
+|HG08443|HiFi|PBMC|UW|450.9|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/466C0730-D59F-4438-9A02-3A5F06B6C2A0--UW_HPRC_HiFi_Year7_Blood/HG08443/)|
 |HG08443|ONT-UL|LCL|UCSC|164.3|TBD|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/84077892-5102-489A-AB47-79EA57B8FC91--UCSC_HPRC_NANOPORE_YEAR7/HG08443/)|
 |HG08443|Omni-C|LCL|TBD|TBD|TBD|TBD|
 |HG08443|Kinnex|TBD|TBD|TBD|TBD|TBD|
