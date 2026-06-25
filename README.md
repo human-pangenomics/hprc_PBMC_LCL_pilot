@@ -4,7 +4,7 @@ This is a data collection repo for a special pilot experiment that is co-funded 
 
 There are two primary goals of this pilot:
  1. call and assess variants from PBMC and LCL HiFi sequencing.    
- 2. evaluate assemblies created using a combination of PBMC and LCL sequencing (HPRC R2 assembly protocol).    
+ 2. evaluate assemblies created using a combination of PBMC and LCL sequencing (HPRC R2 assembly protocol). Assemblies are available on [AWS](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/3523C95E-EB14-4CF2-B371-BF441A41A9D2--WB_LCL_PILOT_V2_ASSEMBLY/). See the [assembly assessment summary](assembly_assessment_brief.md) and [full assembly assessment report](assembly_assessment.md).    
 
 ------
 
