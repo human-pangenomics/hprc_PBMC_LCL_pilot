@@ -19,6 +19,7 @@ There are two primary goals of this pilot:
 |HG08434|ONT-UL|LCL|UCSC|135.1|98.9|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/84077892-5102-489A-AB47-79EA57B8FC91--UCSC_HPRC_NANOPORE_YEAR7/HG08434/)|
 |HG08434|Omni-C|LCL|UCSC|63.4|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/192FC6C4-DDC0-45C6-ABA4-1C4FDE785008--WB_LCL_PILOT_OMNIC/HG08434/)|
 |HG08434|Kinnex|LCL|UW|TBD|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/D7C82359-0994-4BFB-802F-70E9D873C479--WB_LCL_PILOT_KINNEX/HG08434/)|
+|HG08434|TruPath<sup>2</sup>|LCL|WUSTL|284.2|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/23B8D27E-1D54-4A7D-B6C1-1E14E1AA51E5--WB_LCL_PILOT_TRUPATH/HG08434/)|
 
 
 #### HG08435
@@ -30,6 +31,7 @@ There are two primary goals of this pilot:
 |HG08435|ONT-UL|LCL|UCSC|175.3|99.9|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/84077892-5102-489A-AB47-79EA57B8FC91--UCSC_HPRC_NANOPORE_YEAR7/HG08435/)|
 |HG08435|Omni-C|LCL|UCSC|62.7|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/192FC6C4-DDC0-45C6-ABA4-1C4FDE785008--WB_LCL_PILOT_OMNIC/HG08435/)|
 |HG08435|Kinnex|LCL|UW|TBD|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/D7C82359-0994-4BFB-802F-70E9D873C479--WB_LCL_PILOT_KINNEX/HG08435/)|
+|HG08435|TruPath<sup>2</sup>|LCL|WUSTL|291.4|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/23B8D27E-1D54-4A7D-B6C1-1E14E1AA51E5--WB_LCL_PILOT_TRUPATH/HG08435/)|
 
 #### HG08436
 
@@ -40,6 +42,7 @@ There are two primary goals of this pilot:
 |HG08436|ONT-UL|LCL|UCSC|172.7|101.7|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/84077892-5102-489A-AB47-79EA57B8FC91--UCSC_HPRC_NANOPORE_YEAR7/HG08436/)|
 |HG08436|Omni-C|LCL|UCSC|68.6|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/192FC6C4-DDC0-45C6-ABA4-1C4FDE785008--WB_LCL_PILOT_OMNIC/HG08436/)|
 |HG08436|Kinnex|LCL|UW|TBD|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/D7C82359-0994-4BFB-802F-70E9D873C479--WB_LCL_PILOT_KINNEX/HG08436/)|
+|HG08436|TruPath<sup>2</sup>|LCL|WUSTL|246.4|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/23B8D27E-1D54-4A7D-B6C1-1E14E1AA51E5--WB_LCL_PILOT_TRUPATH/HG08436/)|
 
 #### HG08441
 
@@ -50,6 +53,7 @@ There are two primary goals of this pilot:
 |HG08441|ONT-UL|LCL|UCSC|140.6|106.0|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/84077892-5102-489A-AB47-79EA57B8FC91--UCSC_HPRC_NANOPORE_YEAR7/HG08441/)|
 |HG08441|Omni-C|LCL|UCSC|64.5|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/192FC6C4-DDC0-45C6-ABA4-1C4FDE785008--WB_LCL_PILOT_OMNIC/HG08441/)|
 |HG08441|Kinnex|LCL|UW|TBD|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/D7C82359-0994-4BFB-802F-70E9D873C479--WB_LCL_PILOT_KINNEX/HG08441/)|
+|HG08441|TruPath<sup>2</sup>|LCL|WUSTL|288.6|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/23B8D27E-1D54-4A7D-B6C1-1E14E1AA51E5--WB_LCL_PILOT_TRUPATH/HG08441/)|
 
 #### HG08443
 
@@ -60,6 +64,7 @@ There are two primary goals of this pilot:
 |HG08443|ONT-UL|LCL|UCSC|164.3|103.5|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/84077892-5102-489A-AB47-79EA57B8FC91--UCSC_HPRC_NANOPORE_YEAR7/HG08443/)|
 |HG08443|Omni-C|LCL|UCSC|64.8|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/192FC6C4-DDC0-45C6-ABA4-1C4FDE785008--WB_LCL_PILOT_OMNIC/HG08443/)|
 |HG08443|Kinnex|LCL|UW|TBD|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/D7C82359-0994-4BFB-802F-70E9D873C479--WB_LCL_PILOT_KINNEX/HG08443/)|
+|HG08443|TruPath<sup>2</sup>|LCL|WUSTL|288.8|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/23B8D27E-1D54-4A7D-B6C1-1E14E1AA51E5--WB_LCL_PILOT_TRUPATH/HG08443/)|
 
 #### HG08444
 
@@ -70,6 +75,7 @@ There are two primary goals of this pilot:
 |HG08444|ONT-UL|LCL|UCSC|169.5|103.3|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/84077892-5102-489A-AB47-79EA57B8FC91--UCSC_HPRC_NANOPORE_YEAR7/HG08444/)|
 |HG08444|Omni-C|LCL|UCSC|46.7|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/192FC6C4-DDC0-45C6-ABA4-1C4FDE785008--WB_LCL_PILOT_OMNIC/HG08444/)|
 |HG08444|Kinnex|LCL|WUSTL|TBD|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/D7C82359-0994-4BFB-802F-70E9D873C479--WB_LCL_PILOT_KINNEX/HG08444/)|
+|HG08444|TruPath<sup>2</sup>|LCL|WUSTL|289.4|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/23B8D27E-1D54-4A7D-B6C1-1E14E1AA51E5--WB_LCL_PILOT_TRUPATH/HG08444/)|
 
 #### HG08446
 
@@ -80,6 +86,7 @@ There are two primary goals of this pilot:
 |HG08446|ONT-UL|LCL|UCSC|180.0|105.1|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/84077892-5102-489A-AB47-79EA57B8FC91--UCSC_HPRC_NANOPORE_YEAR7/HG08446/)|
 |HG08446|Omni-C|LCL|UCSC|55.0|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/192FC6C4-DDC0-45C6-ABA4-1C4FDE785008--WB_LCL_PILOT_OMNIC/HG08446/)|
 |HG08446|Kinnex|LCL|WUSTL|TBD|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/D7C82359-0994-4BFB-802F-70E9D873C479--WB_LCL_PILOT_KINNEX/HG08446/)|
+|HG08446|TruPath<sup>2</sup>|LCL|WUSTL|293.3|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/23B8D27E-1D54-4A7D-B6C1-1E14E1AA51E5--WB_LCL_PILOT_TRUPATH/HG08446/)|
 
 #### HG08449
 
@@ -90,6 +97,7 @@ There are two primary goals of this pilot:
 |HG08449|ONT-UL|LCL|UCSC|118.0|95.3|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/84077892-5102-489A-AB47-79EA57B8FC91--UCSC_HPRC_NANOPORE_YEAR7/HG08449/)|
 |HG08449|Omni-C|LCL|UCSC|58.3|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/192FC6C4-DDC0-45C6-ABA4-1C4FDE785008--WB_LCL_PILOT_OMNIC/HG08449/)|
 |HG08449|Kinnex|LCL|WUSTL|TBD|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/D7C82359-0994-4BFB-802F-70E9D873C479--WB_LCL_PILOT_KINNEX/HG08449/)|
+|HG08449|TruPath<sup>2</sup>|LCL|WUSTL|292.8|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/23B8D27E-1D54-4A7D-B6C1-1E14E1AA51E5--WB_LCL_PILOT_TRUPATH/HG08449/)|
 
 #### HG08463
 
@@ -100,6 +108,7 @@ There are two primary goals of this pilot:
 |HG08463|ONT-UL|LCL|UCSC|167.7|101.0|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/84077892-5102-489A-AB47-79EA57B8FC91--UCSC_HPRC_NANOPORE_YEAR7/HG08463/)|
 |HG08463|Omni-C|LCL|UCSC|66.6|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/192FC6C4-DDC0-45C6-ABA4-1C4FDE785008--WB_LCL_PILOT_OMNIC/NA08463/)|
 |HG08463|Kinnex|LCL|WUSTL|TBD|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/D7C82359-0994-4BFB-802F-70E9D873C479--WB_LCL_PILOT_KINNEX/HG08463/)|
+|HG08463|TruPath<sup>2</sup>|LCL|WUSTL|284.7|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/23B8D27E-1D54-4A7D-B6C1-1E14E1AA51E5--WB_LCL_PILOT_TRUPATH/HG08463/)|
 
 #### HG08464
 
@@ -110,7 +119,10 @@ There are two primary goals of this pilot:
 |HG08464|ONT-UL|LCL|UCSC|102.9|110.2|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/84077892-5102-489A-AB47-79EA57B8FC91--UCSC_HPRC_NANOPORE_YEAR7/HG08464/)|
 |HG08464|Omni-C|LCL|UCSC|55.8|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/192FC6C4-DDC0-45C6-ABA4-1C4FDE785008--WB_LCL_PILOT_OMNIC/HG08464/)|
 |HG08464|Kinnex|LCL|WUSTL|TBD|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/D7C82359-0994-4BFB-802F-70E9D873C479--WB_LCL_PILOT_KINNEX/HG08464/)|
+|HG08464|TruPath<sup>2</sup>|LCL|WUSTL|283.9|NA|[aws folder](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/23B8D27E-1D54-4A7D-B6C1-1E14E1AA51E5--WB_LCL_PILOT_TRUPATH/HG08464/)|
 
 ------
 
 <sup>1</sup> All HiFi LCL data was run through the Fiber-seq protocol. [https://www.science.org/doi/10.1126/science.aaz1646]
+
+<sup>2</sup> Illumina TruPath whole-genome sequencing (paired-end 2x151 bp, one lane per sample) from GTAC@MGI at Washington University in St. Louis. Each sample folder has `raw/` FASTQs and `processed/` DRAGEN 4.5.4 outputs on GRCh38 (proximity-tagged BAM, phased small variants, phase blocks, CNV, repeat and MRJD calls, co-location matrix and QC metrics). See the README at the top of the submission for details.
