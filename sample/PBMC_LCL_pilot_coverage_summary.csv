@@ -1,0 +1,11 @@
+sample_id,production_year,coverage_hifi,deepconsensus_coverage_hifi,coverage_non_dc,coverage_mm_hifi,hifi_prod_site,n50_hifi,phasing,coverage_hic,coverage_ill,total_reads_kinnex,coverage_ont,coverage_100kb_ont,read_N50_ont,sequencing_chemistry_ont,notes
+HG08434,YR7,75.76,0,75.76,75.76,UW,19217.32,hic,42.20,86.14,14117166,59.78,29.54,98792,R1041,PBMC + LCL pilot; HiFi = LCL (Fiber-seq) + PBMC; Illumina = TruPath
+HG08435,YR7,76.15,0,76.15,76.15,UW,21018.79,hic,42.04,88.30,12277776,75.52,37.77,100036,R1041,PBMC + LCL pilot; HiFi = LCL (Fiber-seq) + PBMC; Illumina = TruPath
+HG08436,YR7,84.11,0,84.11,84.11,UW,20380.02,hic,46.04,74.68,13398989,74.30,37.82,101717,R1041,PBMC + LCL pilot; HiFi = LCL (Fiber-seq) + PBMC; Illumina = TruPath
+HG08441,YR7,79.65,0,79.65,79.65,UW,21700.01,hic,43.26,87.46,12390937,61.64,32.81,106521,R1041,PBMC + LCL pilot; HiFi = LCL (Fiber-seq) + PBMC; Illumina = TruPath
+HG08443,YR7,85.46,0,85.46,85.46,UW,21996.99,hic,43.68,87.52,13010838,71.00,36.77,103642,R1041,PBMC + LCL pilot; HiFi = LCL (Fiber-seq) + PBMC; Illumina = TruPath
+HG08444,YR7,69.36,0,69.36,69.36,WUSTL,21359.35,hic,31.34,87.68,12048245,72.34,37.33,103279,R1041,PBMC + LCL pilot; HiFi = LCL (Fiber-seq) + PBMC; Illumina = TruPath
+HG08446,YR7,71.58,0,71.58,71.58,WUSTL,20133.82,hic,36.70,88.88,14032387,77.81,41.05,105143,R1041,PBMC + LCL pilot; HiFi = LCL (Fiber-seq) + PBMC; Illumina = TruPath
+HG08449,YR7,59.82,0,59.82,59.82,WUSTL,21745.57,hic,39.14,88.72,15062788,68.13,31.89,94169,R1041,PBMC + LCL pilot; HiFi = LCL (Fiber-seq) + PBMC; Illumina = TruPath
+HG08463,YR7,64.67,0,64.67,64.67,WUSTL,21413.96,hic,44.78,86.26,14079836,71.78,36.19,100911,R1041,PBMC + LCL pilot; HiFi = LCL (Fiber-seq) + PBMC; Illumina = TruPath
+HG08464,YR7,61.21,0,61.21,61.21,WUSTL,20955.56,hic,37.32,86.04,12070429,62.98,34.43,109854,R1041,PBMC + LCL pilot; HiFi = LCL (Fiber-seq) + PBMC; Illumina = TruPath
