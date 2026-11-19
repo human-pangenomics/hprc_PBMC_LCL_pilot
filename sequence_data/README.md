@@ -27,6 +27,3 @@ Conventions:
 Per-sample tables in `../sample/` follow the R3_HPRC `sample/` tables: `PBMC_LCL_pilot_metadata.csv`
 (sex; population not recorded) and `PBMC_LCL_pilot_coverage_summary.csv` (coverage per technology,
 summed from the tables above; HiFi and ONT read N50s are base-weighted means of the per-file N50s).
-
-`build_tables.py` regenerates all of these tables from the pilot QC outputs at UCSC; it takes the path to
-an R3_HPRC `sequence_data` checkout for the column headers.
